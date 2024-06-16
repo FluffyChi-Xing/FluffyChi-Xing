@@ -1,6 +1,10 @@
 ## Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FluffyChi-Xing&count_private=true&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FluffyChi-Xing)](https://git.io/streak-stats)
+- I'm a personal programmer from China.And I'm also a Furry.😂Here are my skills:🤔
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,typescript,java,golang)](https://skillicons.dev)
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FluffyChi-Xing&count_private=true&show_icons=true&theme=radical)
+- [![GitHub Streak](https://streak-stats.demolab.com/?user=FluffyChi-Xing)](https://git.io/streak-stats)
+- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FluffyChi-Xing&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=FluffyChi-Xing&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 - 🔭 I’m currently studying at an university ...
 - 🌱 I’m currently learning NestJS.
 - 👯 I’m looking to collaborate on something very cool.
