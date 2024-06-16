@@ -1,5 +1,4 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FluffyChi-Xing)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FluffyChi-Xing&count_private=true&show_icons=true&theme=radical)
 <!--
 **FluffyChi-Xing/FluffyChi-Xing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
