@@ -5,13 +5,13 @@
 - [![GitHub Streak](https://streak-stats.demolab.com/?user=FluffyChi-Xing)](https://git.io/streak-stats)
 - [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FluffyChi-Xing&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 - <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 43.1 kB Used in GitHub's Storage 
+> 📦 45.9 kB Used in GitHub's Storage 
  > 
 > 🏆 129 Contributions in the Year 2024
  > 
@@ -74,7 +74,7 @@ TypeScript               4 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FluffyChi-Xing/FluffyChi-Xing/main/assets/bar_graph.png)
 
 
- Last Updated on 17/06/2024 12:30:42 UTC
+ Last Updated on 17/06/2024 18:40:12 UTC
 <!--END_SECTION:waka-->
 - 🔭 I’m currently studying at an university ...
 - 🌱 I’m currently learning NestJS.
