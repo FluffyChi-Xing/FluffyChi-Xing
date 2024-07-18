@@ -5,15 +5,13 @@
 - [![GitHub Streak](https://streak-stats.demolab.com/?user=FluffyChi-Xing)](https://git.io/streak-stats)
 - [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FluffyChi-Xing&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 - <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 46.6 kB Used in GitHub's Storage 
- > 
-> 🏆 146 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,22 +46,23 @@ Sunday                   40 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Java                     7 hrs 36 mins       █████████████████░░░░░░░░   67.92 % 
-XML                      1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-YAML                     1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-HTML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-Log                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Java                     5 hrs 22 mins       ██████████████░░░░░░░░░░░   55.57 % 
+Vue.js                   1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+XML                      1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+YAML                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+HTML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
 
 🔥 Editors: 
-IntelliJ IDEA            11 hrs 12 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            9 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-hmall                    9 hrs 34 mins       █████████████████████░░░░   85.56 % 
-Unknown Project          1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-IdeaProjects             34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+hmall                    7 hrs 2 mins        ██████████████████░░░░░░░   72.83 % 
+TemplateManage           1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Unknown Project          38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+IdeaProjects             35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
 
 💻 Operating System: 
-Windows                  11 hrs 12 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -81,7 +80,7 @@ Java                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FluffyChi-Xing/FluffyChi-Xing/main/assets/bar_graph.png)
 
 
- Last Updated on 17/07/2024 18:43:36 UTC
+ Last Updated on 18/07/2024 18:42:24 UTC
 <!--END_SECTION:waka-->
 - 🔭 I’m currently studying at an university ...
 - 🌱 I’m currently learning NestJS.
