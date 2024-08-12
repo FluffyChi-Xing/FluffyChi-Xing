@@ -11,7 +11,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 46.7 kB Used in GitHub's Storage 
+> 📦 46.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -81,7 +81,7 @@ Java                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FluffyChi-Xing/FluffyChi-Xing/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2024 18:42:15 UTC
+ Last Updated on 12/08/2024 18:44:05 UTC
 <!--END_SECTION:waka-->
 - 🔭 I’m currently studying at an university ...
 - 🌱 I’m currently learning NestJS.
