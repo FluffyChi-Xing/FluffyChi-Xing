@@ -13,6 +13,8 @@
 
 > 📦 46.8 kB Used in GitHub's Storage 
  > 
+> 🏆 158 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -77,7 +79,7 @@ Java                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FluffyChi-Xing/FluffyChi-Xing/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2024 18:41:00 UTC
+ Last Updated on 18/08/2024 18:40:57 UTC
 <!--END_SECTION:waka-->
 - 🔭 I’m currently studying at an university ...
 - 🌱 I’m currently learning NestJS.
