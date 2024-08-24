@@ -5,7 +5,7 @@
 - [![GitHub Streak](https://streak-stats.demolab.com/?user=FluffyChi-Xing)](https://git.io/streak-stats)
 - [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FluffyChi-Xing&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 - <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-276%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-283%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -48,21 +48,21 @@ Sunday                   40 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Vue.js                   32 hrs 23 mins      ████████████████████████░   95.77 % 
-TypeScript               35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-CSS                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-SCSS                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Vue.js                   32 hrs 41 mins      ███████████████████████░░   92.90 % 
+TypeScript               1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+CSS                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+JavaScript               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-IntelliJ IDEA            33 hrs 49 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            35 hrs 11 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-gaoshou-frontend         30 hrs 59 mins      ███████████████████████░░   91.65 % 
-TemplateManage           2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+gaoshou-frontend         26 hrs 4 mins       ███████████████████░░░░░░   74.11 % 
+TemplateManage           9 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
 
 💻 Operating System: 
-Windows                  33 hrs 49 mins      █████████████████████████   100.00 % 
+Windows                  35 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -80,7 +80,7 @@ Java                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FluffyChi-Xing/FluffyChi-Xing/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2024 18:42:24 UTC
+ Last Updated on 24/08/2024 18:41:24 UTC
 <!--END_SECTION:waka-->
 - 🔭 I’m currently studying at an university ...
 - 🌱 I’m currently learning NestJS.
