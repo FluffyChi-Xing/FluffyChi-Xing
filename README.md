@@ -4,13 +4,13 @@
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FluffyChi-Xing&count_private=true&show_icons=true&theme=radical)
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FluffyChi-Xing)
 - <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-709%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-706%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 57.0 kB Used in GitHub's Storage 
+> 📦 57.1 kB Used in GitHub's Storage 
  > 
 > 🏆 363 Contributions in the Year 2024
  > 
@@ -23,21 +23,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                81 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-🌆 Daytime                195 commits         █████████░░░░░░░░░░░░░░░░   35.85 % 
-🌃 Evening                268 commits         ████████████░░░░░░░░░░░░░   49.26 % 
+🌞 Morning                81 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+🌆 Daytime                195 commits         █████████░░░░░░░░░░░░░░░░   35.65 % 
+🌃 Evening                271 commits         ████████████░░░░░░░░░░░░░   49.54 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   86 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Tuesday                  72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Wednesday                75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Thursday                 103 commits         █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-Friday                   63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Saturday                 70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Sunday                   75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Monday                   86 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Tuesday                  75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Wednesday                75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Thursday                 103 commits         █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+Friday                   63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Saturday                 70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Sunday                   75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
 ```
 
 
@@ -83,7 +83,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FluffyChi-Xing/FluffyChi-Xing/main/assets/bar_graph.png)
 
 
- Last Updated on 05/11/2024 09:37:10 UTC
+ Last Updated on 05/11/2024 18:39:37 UTC
 <!--END_SECTION:waka-->
 - 🔭 I’m currently studying at an university ...
 - 🌱 I’m currently learning NestJS.
