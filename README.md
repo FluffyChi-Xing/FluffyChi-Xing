@@ -87,4 +87,3 @@ JavaScript               1 repo              █░░░░░░░░░░�
 - 🌱 I’m currently learning NestJS.
 - 👯 I’m looking to collaborate on something very cool.
 - 💬 Ask me about Front-End.
-- ⚡ Fun fact: I am a furry.
