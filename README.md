@@ -4,13 +4,15 @@
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FluffyChi-Xing&count_private=true&show_icons=true&theme=radical)
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FluffyChi-Xing)
 - <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-946%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-947%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 295.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 312 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,24 +47,24 @@ Sunday                   103 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Java                     12 hrs 30 mins      ██████████████████░░░░░░░   73.60 % 
-Vue.js                   3 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-TypeScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Java                     12 hrs 38 mins      ██████████████████░░░░░░░   72.97 % 
+Vue.js                   3 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+TypeScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+FTL                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🔥 Editors: 
-IntelliJ IDEA            17 hrs              █████████████████████████   100.00 % 
+IntelliJ IDEA            17 hrs 19 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GuguMallProject          12 hrs 18 mins      ██████████████████░░░░░░░   72.37 % 
-GugumallAdmin            2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-GuguMall                 1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-WebBaseClass             24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-IdeaProjects             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+GuguMallProject          12 hrs 37 mins      ██████████████████░░░░░░░   72.89 % 
+GugumallAdmin            2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+GuguMall                 1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+WebBaseClass             24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+IdeaProjects             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 💻 Operating System: 
-Windows                  17 hrs              █████████████████████████   100.00 % 
+Windows                  17 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -81,7 +83,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FluffyChi-Xing/FluffyChi-Xing/main/assets/bar_graph.png)
 
 
- Last Updated on 20/12/2024 18:39:43 UTC
+ Last Updated on 21/12/2024 18:38:31 UTC
 <!--END_SECTION:waka-->
 - 🔭 I’m currently studying at an university ...
 - 🌱 I’m currently learning NestJS.
