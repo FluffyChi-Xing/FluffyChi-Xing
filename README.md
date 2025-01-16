@@ -4,7 +4,7 @@
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FluffyChi-Xing&count_private=true&show_icons=true&theme=radical)
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FluffyChi-Xing)
 - <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C059%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C061%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -45,24 +45,24 @@ Sunday                   114 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Java                     15 hrs 41 mins      ████████████░░░░░░░░░░░░░   46.81 % 
-Vue.js                   8 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   26.69 % 
-PlantUML file            3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-XML                      2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-TypeScript               1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Java                     13 hrs 17 mins      ███████████░░░░░░░░░░░░░░   42.01 % 
+Vue.js                   9 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   30.32 % 
+PlantUML file            3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+XML                      2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+TypeScript               1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 
 🔥 Editors: 
-IntelliJ IDEA            33 hrs 31 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            31 hrs 39 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SmartTakewayFront        10 hrs 45 mins      ████████░░░░░░░░░░░░░░░░░   32.08 % 
-SmartTakewayBackend      9 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   27.20 % 
-SolidifyJavaProject      8 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   26.70 % 
-IdeaProjects             3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-dive-into-spring-ai      1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+SmartTakewayFront        11 hrs 27 mins      █████████░░░░░░░░░░░░░░░░   36.19 % 
+SmartTakewayBackend      10 hrs 16 mins      ████████░░░░░░░░░░░░░░░░░   32.46 % 
+SolidifyJavaProject      5 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+IdeaProjects             3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+dive-into-spring-ai      1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 
 💻 Operating System: 
-Windows                  33 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  31 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -81,7 +81,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FluffyChi-Xing/FluffyChi-Xing/main/assets/bar_graph.png)
 
 
- Last Updated on 15/01/2025 18:44:43 UTC
+ Last Updated on 16/01/2025 18:44:45 UTC
 <!--END_SECTION:waka-->
 - 🔭 I’m currently studying at an university ...
 - 🌱 I’m currently learning NestJS.
