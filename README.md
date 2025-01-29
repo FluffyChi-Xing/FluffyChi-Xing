@@ -6,7 +6,7 @@
 - <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C072%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 **🐱 My GitHub Data** 
 
@@ -80,7 +80,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FluffyChi-Xing/FluffyChi-Xing/main/assets/bar_graph.png)
 
 
- Last Updated on 28/01/2025 18:46:49 UTC
+ Last Updated on 29/01/2025 18:45:31 UTC
 <!--END_SECTION:waka-->
 - 🔭 I’m currently studying at an university ...
 - 🌱 I’m currently learning NestJS.
