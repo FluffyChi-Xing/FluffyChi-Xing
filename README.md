@@ -4,7 +4,7 @@
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FluffyChi-Xing&count_private=true&show_icons=true&theme=radical)
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FluffyChi-Xing)
 - <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C126%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C129%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -45,21 +45,22 @@ Sunday                   125 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Java                     12 hrs 45 mins      █████████████████████░░░░   85.96 % 
-TypeScript               1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-Vue.js                   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-XML                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Java                     14 hrs 18 mins      ███████████████████████░░   91.24 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+XML                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+TypeScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 🔥 Editors: 
-IntelliJ IDEA            14 hrs 50 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            15 hrs 40 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-saas-shortlink           13 hrs 6 mins       ██████████████████████░░░   88.27 % 
-shortlink-front          1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+saas-shortlink           14 hrs 49 mins      ████████████████████████░   94.63 % 
+taro-test                46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+IdeaProjects             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 💻 Operating System: 
-Windows                  14 hrs 50 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -78,7 +79,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FluffyChi-Xing/FluffyChi-Xing/main/assets/bar_graph.png)
 
 
- Last Updated on 24/02/2025 18:40:59 UTC
+ Last Updated on 25/02/2025 18:41:11 UTC
 <!--END_SECTION:waka-->
 - 🔭 I’m currently studying at an university ...
 - 🌱 I’m currently learning NestJS.
