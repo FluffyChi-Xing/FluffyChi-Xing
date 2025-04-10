@@ -4,15 +4,13 @@
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FluffyChi-Xing&count_private=true&show_icons=true&theme=radical)
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FluffyChi-Xing)
 - <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C306%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C314%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 301.1 kB Used in GitHub's Storage 
- > 
-> 🏆 56 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,24 +45,24 @@ Sunday                   155 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Vue.js                   19 hrs 40 mins      ███████████████░░░░░░░░░░   61.52 % 
-TypeScript               11 hrs 42 mins      █████████░░░░░░░░░░░░░░░░   36.63 % 
-JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Vue.js                   22 hrs 46 mins      ████████████████░░░░░░░░░   64.08 % 
+TypeScript               12 hrs 13 mins      █████████░░░░░░░░░░░░░░░░   34.40 % 
+Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-IntelliJ IDEA            31 hrs 58 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            35 hrs 32 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-renren-lowcode           26 hrs 34 mins      █████████████████████░░░░   83.14 % 
-Three-project            3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-visual-drag-demo         1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-AirPower4T               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+renren-lowcode           34 hrs 9 mins       ████████████████████████░   96.09 % 
+visual-drag-demo         1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+AirPower4T               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Three-project            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Windows                  31 hrs 58 mins      █████████████████████████   100.00 % 
+Windows                  35 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -83,7 +81,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FluffyChi-Xing/FluffyChi-Xing/main/assets/bar_graph.png)
 
 
- Last Updated on 09/04/2025 18:42:25 UTC
+ Last Updated on 10/04/2025 18:40:57 UTC
 <!--END_SECTION:waka-->
 - 🔭 I’m currently studying at an university ...
 - 🌱 I’m currently learning NestJS.
