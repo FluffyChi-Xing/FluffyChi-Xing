@@ -4,15 +4,13 @@
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FluffyChi-Xing&count_private=true&show_icons=true&theme=radical)
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FluffyChi-Xing)
 - <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C536%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C540%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 303.1 kB Used in GitHub's Storage 
- > 
-> 🏆 406 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,22 +45,21 @@ Sunday                   216 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Vue.js                   16 hrs 15 mins      ██████████████░░░░░░░░░░░   57.04 % 
-TypeScript               11 hrs 40 mins      ██████████░░░░░░░░░░░░░░░   40.99 % 
-JSON                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Vue.js                   14 hrs 29 mins      █████████████░░░░░░░░░░░░   50.81 % 
+TypeScript               13 hrs 46 mins      ████████████░░░░░░░░░░░░░   48.30 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-WebStorm                 28 hrs 29 mins      █████████████████████████   100.00 % 
+WebStorm                 28 hrs 32 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-renren-lowcode           27 hrs 29 mins      ████████████████████████░   96.50 % 
+renren-lowcode           27 hrs 32 mins      ████████████████████████░   96.52 % 
 ali-lowcode-engine       59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-stardy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  28 hrs 29 mins      █████████████████████████   100.00 % 
+Windows                  28 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -81,7 +78,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FluffyChi-Xing/FluffyChi-Xing/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2025 18:43:34 UTC
+ Last Updated on 30/05/2025 18:43:17 UTC
 <!--END_SECTION:waka-->
 - 🔭 I’m currently studying at an university ...
 - 🌱 I’m currently learning NestJS.
