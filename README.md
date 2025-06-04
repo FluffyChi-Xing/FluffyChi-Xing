@@ -83,7 +83,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
  Last Updated on 01/06/2025 18:41:59 UTC
 <!--END_SECTION:waka-->
-- 🔭 I’m currently studying at an university ...
+- 🔭 I’m currently studying at an chinese university ...
 - 🌱 I’m currently learning NestJS.
 - 👯 I’m looking to collaborate on something very cool.
 - 💬 Ask me about Front-End.
