@@ -6,13 +6,13 @@
 - <!--START_SECTION:waka-->
 
 ```txt
-From: 20 July 2025 - To: 27 July 2025
+From: 22 July 2025 - To: 29 July 2025
 
-Vue.js                     28 hrs 39 mins  ██████████████████▒░░░░░░   72.90 %
-TypeScript                 5 hrs 29 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
-Docker                     1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-Image (svg)                58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-Nginx configuration file   47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Vue.js                     27 hrs 3 mins   ███████████████▒░░░░░░░░░   61.66 %
+TypeScript                 13 hrs 3 mins   ███████▒░░░░░░░░░░░░░░░░░   29.75 %
+Makefile                   51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Nginx configuration file   49 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Docker                     31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 ```
 
 <!--END_SECTION:waka-->
