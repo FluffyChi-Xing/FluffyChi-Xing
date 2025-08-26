@@ -6,12 +6,12 @@
 - <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2025 - To: 24 August 2025
+From: 18 August 2025 - To: 25 August 2025
 
-Vue.js         6 hrs 46 mins   ████████████████▓░░░░░░░░   67.15 %
-TypeScript     3 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   32.21 %
-JSON           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-JavaScript     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Vue.js         8 hrs 20 mins   █████████████████░░░░░░░░   67.96 %
+TypeScript     3 hrs 46 mins   ███████▓░░░░░░░░░░░░░░░░░   30.74 %
+JSON           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+JavaScript     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 EditorConfig   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
