@@ -6,13 +6,13 @@
 - <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2025 - To: 24 October 2025
+From: 18 October 2025 - To: 25 October 2025
 
-Java         2 hrs 36 mins   ██████████░░░░░░░░░░░░░░░   40.24 %
-Vue.js       2 hrs 12 mins   ████████▒░░░░░░░░░░░░░░░░   33.92 %
-TypeScript   1 hr 18 mins    █████░░░░░░░░░░░░░░░░░░░░   20.18 %
-SQL          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-XML          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Java         5 hrs 5 mins    ███████████▓░░░░░░░░░░░░░   46.97 %
+Vue.js       2 hrs 20 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.52 %
+TypeScript   1 hr 58 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.14 %
+XML          29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+textmate     22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
 ```
 
 <!--END_SECTION:waka-->
