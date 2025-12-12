@@ -6,13 +6,13 @@
 - <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2025 - To: 10 December 2025
+From: 04 December 2025 - To: 11 December 2025
 
-TypeScript       9 hrs 15 mins   ███████████████████▓░░░░░   78.33 %
-Vue.js           1 hr 20 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
-SQL              27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-Docker           11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-Bash             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+TypeScript       11 hrs 25 mins  █████████████████████▓░░░   86.24 %
+SQL              52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+Docker           17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+Bash             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+GitIgnore file   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
