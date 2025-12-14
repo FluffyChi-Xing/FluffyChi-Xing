@@ -6,13 +6,13 @@
 - <!--START_SECTION:waka-->
 
 ```txt
-From: 05 December 2025 - To: 12 December 2025
+From: 06 December 2025 - To: 13 December 2025
 
-TypeScript       13 hrs 16 mins  ██████████████████░░░░░░░   71.79 %
-Vue.js           1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
-SQL              58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-textmate         57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-YAML             31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+TypeScript                 14 hrs 7 mins   ████████████▓░░░░░░░░░░░░   50.95 %
+Vue.js                     5 hrs 9 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.59 %
+textmate                   1 hr 49 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+Text                       1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+SQL                        49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
 ```
 
 <!--END_SECTION:waka-->
