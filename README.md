@@ -4,13 +4,13 @@
 - <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2026 - To: 11 June 2026
+From: 05 June 2026 - To: 12 June 2026
 
-Vue              20 hrs 44 mins        ██████████████████▒░░░░░░   72.87 %
-TypeScript       6 hrs 2 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.24 %
-JSON             1 hr 1 min            █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-Markdown         19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-GitIgnore file   7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Vue              16 hrs 49 mins        ██████████████▒░░░░░░░░░░   57.90 %
+TypeScript       9 hrs 32 mins         ████████▒░░░░░░░░░░░░░░░░   32.85 %
+JSON             1 hr 10 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+Markdown         50 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+Other            12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
