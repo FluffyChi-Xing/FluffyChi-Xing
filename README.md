@@ -4,13 +4,13 @@
 - <!--START_SECTION:waka-->
 
 ```txt
-From: 20 June 2026 - To: 27 June 2026
+From: 21 June 2026 - To: 28 June 2026
 
-Svelte          1 hr 26 mins          ████████░░░░░░░░░░░░░░░░░   32.52 %
-Astro           1 hr 3 mins           ██████░░░░░░░░░░░░░░░░░░░   24.11 %
-Vue             33 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
-TypeScript      28 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
-Markdown        18 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+TypeScript       0 secs                █████████████░░░░░░░░░░░░   52.35 %
+JSON             0 secs                ██████████░░░░░░░░░░░░░░░   40.61 %
+GitIgnore file   0 secs                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+Astro            0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Svelte           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
