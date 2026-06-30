@@ -32,15 +32,17 @@
 ### ⏳ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-```txt
-From: 21 June 2026 - To: 28 June 2026
 
-TypeScript       0 secs                █████████████░░░░░░░░░░░░   52.35 %
-JSON             0 secs                ██████████░░░░░░░░░░░░░░░   40.61 %
-GitIgnore file   0 secs                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-Astro            0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-Svelte           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+```txt
+From: 22 June 2026 - To: 29 June 2026
+
+Vue              5 hrs 49 mins         ██████████████▒░░░░░░░░░░   57.28 %
+TypeScript       2 hrs 29 mins         ██████░░░░░░░░░░░░░░░░░░░   24.48 %
+CSS              30 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+JSON             23 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+Markdown         15 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
 ```
+
 <!--END_SECTION:waka-->
 
 ---
